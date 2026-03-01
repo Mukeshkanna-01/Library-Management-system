@@ -142,4 +142,4 @@ BEGIN
     WHERE BookID = @BookID;
 END;
 
-EXEC IssueBook 7,1,2;
+EXEC IssueBook 7,1,2;   --Execution part
