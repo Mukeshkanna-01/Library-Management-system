@@ -12,7 +12,7 @@ Title VARCHAR (100) NOT NULL,
 Author VARCHAR (100) NOT NULL,
 AvailableCopies INT NOT NULL CHECK (AvailableCopies >= 0)
 );
---Select * from Books
+--SELECT * FROM Books
 
 --02.Members table ::
 CREATE TABLE Members (
