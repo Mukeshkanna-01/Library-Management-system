@@ -1,4 +1,4 @@
-﻿--STEP 01. Database creation ::
+﻿--STEP 01. DATABASE CREATION ::
 
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
