@@ -3,7 +3,7 @@
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
 
---STEP 02. Tables creation ::
+--STEP 02. TABLES CREATION ::
 
 --01.Books table ::
 CREATE TABLE Books (
