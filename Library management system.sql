@@ -5,7 +5,7 @@ USE LibraryDB;
 
 --STEP 02. TABLES CREATION ::
 
---01.Books table ::
+--01.BOOKS TABLE ::
 CREATE TABLE Books (
 BookID INT Primary Key ,
 Title VARCHAR (100) NOT NULL,
