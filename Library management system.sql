@@ -14,7 +14,7 @@ AvailableCopies INT NOT NULL CHECK (AvailableCopies >= 0)
 );
 --SELECT * FROM Books
 
---02.Members table ::
+--02.Members table ::  //Main branch
 CREATE TABLE Members (
 MemberID INT Primary Key,
 Name VARCHAR (100) NOT NULL,
